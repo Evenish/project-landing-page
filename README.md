@@ -1,1 +1,2 @@
-# project-landing-page
+# Project to create a landing page as a part of The Odin Project
+This project is part of the Foundations section of The Odin Project where the task is to replicate a webpage, using HTML and CSS, based on a provided design.

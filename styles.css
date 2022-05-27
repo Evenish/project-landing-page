@@ -109,6 +109,38 @@ body {
     width: 160px;
 }
 
+.quote-section {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+}
+
+.quote {
+    width: 780px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+.quote-text {
+    width: 800px;
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+    color: #1F2937;
+    justify-self: center;
+    padding-top: 24px;
+}
+
+.quote-author {
+    align-self: flex-end;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 8px;
+}
+
 button {
     background: #3882F6;
     border: none;
